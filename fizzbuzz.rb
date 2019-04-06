@@ -5,7 +5,7 @@ def fizzbuzz(int)
     "Fizz" # Go fizz
   end
   if int%3==0 && int%5==0
-    "FizzBuzz"
+    "fizzbuzz"
   end
   if int%5==0
     "Buzz"
