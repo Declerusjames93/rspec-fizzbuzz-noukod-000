@@ -8,7 +8,7 @@ def fizzbuzz(int)
   return  "FizzBuzz"
   end
   if int%5==0
-    "Buzz"
+  return  "Buzz"
 
   end
 end
